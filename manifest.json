@@ -1,0 +1,38 @@
+{
+  "background_color": "#ffffff",
+  "description": "Founded by neurodivergent and disabled adults with fine expertise in the arts and creative consulting and services.",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "CellTech",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "CellTech LLC",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "icons": [
+    {
+      "src": "https://www.gstatic.com/images/branding/productlogos/sites_2026/v3/ico/sites_2026_16dp.ico",
+      "type": "image/x-icon",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    },
+    {
+      "src": "https://lh3.googleusercontent.com/sitesv/AG8ngQURHJCHon4RvRi8YG7pWlvE5w6yNiSX6NQlMXbgrpn5jtjXMyWlmHIEHGVdHIY78PEq78LwOWVKX30sX7vGWQ4-OgE956MAq9THv-0i6sXOJr8x0g2ToYraHHi7KyrQZkZy6XEyInh1ggnChx_XmhDhI3GymLVXIqCWml8_KLJYYSmzCHPqQ0BwHPSEmm8=w16383",
+      "isSquare": false,
+      "isPng": false,
+      "isWebp": false,
+      "isJpg": false,
+      "width": 0,
+      "is512x512": false,
+      "is256x256": false,
+      "is192x192": false
+    }
+  ],
+  "id": "net.celltech.app"
+}
